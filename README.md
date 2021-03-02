@@ -1,4 +1,4 @@
-# STL_Runtime_Comparison
+# STL_Runtime_Comparison - Karim Nekzad
 Compares the runtime of C++ STL Containers:  Vector, List, Set, Unordered Set
 
 ## How to run
