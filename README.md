@@ -3,7 +3,7 @@ Compares the runtime of C++ STL Containers:  Vector, List, Set, Unordered Set
 
 Findings: https://docs.google.com/document/d/1m7gh1NKUHDrv-It4AXoZxWS1y1uFo2VqAtzPWLfQ-i4/edit?usp=sharing
 
-![hw3_1_output - zoomed](https://user-images.githubusercontent.com/62914827/109834361-17781a00-7c10-11eb-9668-39deccc7afdc.png)
+![edited online terminal output](https://user-images.githubusercontent.com/62914827/109835360-26ab9780-7c11-11eb-90ab-930b16ad6bdf.png)
 
 ## How to run
 1. Download the stl_runtime.cpp file.
